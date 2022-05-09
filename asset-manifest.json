@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/pokeda/static/css/main.5bd9c4e6.css",
+    "main.js": "/pokeda/static/js/main.8c8abb25.js",
+    "static/media/theme-song.mp3": "/pokeda/static/media/theme-song.302859f2cb4bfa097aae.mp3",
+    "index.html": "/pokeda/index.html",
+    "main.5bd9c4e6.css.map": "/pokeda/static/css/main.5bd9c4e6.css.map",
+    "main.8c8abb25.js.map": "/pokeda/static/js/main.8c8abb25.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5bd9c4e6.css",
+    "static/js/main.8c8abb25.js"
+  ]
+}
