@@ -1,0 +1,26 @@
+.moves {
+    margin: 10px 0;
+}
+
+.locations {
+    margin: 10px 0;
+}
+
+.evolutions {
+    margin: 10px 0 20px 0;
+}
+.evolutions span > *:nth-child(odd) {
+    background-color: deepskyblue;
+    border-radius: 5px;
+    padding: 2px 5px;
+    margin: 0 10px;
+}
+
+.evolutions span:last-child span:last-child {
+    display: none;
+}
+
+.evolutions span > .current {
+    font-weight: 800;
+    background-color: gold;
+}

@@ -1,0 +1,28 @@
+#top-bar {
+    border-bottom: 1px solid lightgray;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    z-index: 1;
+}
+
+#top-bar .logo-container {
+    height: 100px;
+}
+#top-bar .logo-container img {
+    height: 100%;
+}
+#top-bar ul {
+    display: flex;
+}
+
+#top-bar li {
+    padding: 0 10px;
+    list-style: none;
+}
+
+#top-bar li:hover {
+    text-decoration: underline;
+    cursor: pointer;
+}

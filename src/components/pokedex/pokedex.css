@@ -1,0 +1,23 @@
+#pokedex {
+    padding: 5px 20px;
+    background-color: lightgray;
+    height: 100%;
+}
+#pokedex header {
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#pokedex header img {
+    height: 100%;
+}
+
+#pokedex .pokemon-grid {
+    display: grid;
+    grid-template-columns: repeat(9, 1fr);
+    gap: 10px;
+    justify-content: center;
+    align-items: center;
+}
