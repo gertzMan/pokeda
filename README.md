@@ -13,7 +13,7 @@ A sort of "Pokédex", using the [pokeapi](https://pokeapi.co/) to display the fi
 
 - Theme song playback
 - Option to save favorite Pokemons
-- Display the Pokemon locations, moves, and Evolution chain
+- Display the Pokemon's locations, moves, and Evolution chain
 
 # Tech Used
 
