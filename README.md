@@ -5,7 +5,7 @@
 
 # Description
 
-Playing around with react, ESTful APIs, And Pokemons of course.
+Playing around with react, RESTful APIs, And Pokemons of course.
 
 # Features
 
