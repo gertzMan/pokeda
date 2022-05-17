@@ -20,5 +20,5 @@ A sort of "Pokédex", using the [pokeapi](https://pokeapi.co/) to display the fi
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 
 ![](https://img.shields.io/badge/IMAGES-4298B8.svg?style=for-the-badge&logoColor=white)
-![](build/ss1.png)
-![](mdAssets/ss2.png)
+![](src/assets/ss1.png)
+![](src/assets/ss2.png)
